@@ -1,0 +1,7 @@
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\TarefaPOOFinal_FormasGeometricas\bin\Debug\TarefaPOOFinal_FormasGeometricas.exe.config
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\TarefaPOOFinal_FormasGeometricas\bin\Debug\TarefaPOOFinal_FormasGeometricas.exe
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\TarefaPOOFinal_FormasGeometricas\bin\Debug\TarefaPOOFinal_FormasGeometricas.pdb
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\TarefaPOOFinal_FormasGeometricas\obj\Debug\TarefaPOOFinal_FormasGeometricas.csprojAssemblyReference.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\TarefaPOOFinal_FormasGeometricas\obj\Debug\TarefaPOOFinal_FormasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\TarefaPOOFinal_FormasGeometricas\obj\Debug\TarefaPOOFinal_FormasGeometricas.exe
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\TarefaPOOFinal_FormasGeometricas\obj\Debug\TarefaPOOFinal_FormasGeometricas.pdb

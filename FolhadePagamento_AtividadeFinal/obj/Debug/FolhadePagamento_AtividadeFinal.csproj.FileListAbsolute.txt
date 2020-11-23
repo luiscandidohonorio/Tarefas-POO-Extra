@@ -1,0 +1,7 @@
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\FolhadePagamento_AtividadeFinal\bin\Debug\FolhadePagamento_AtividadeFinal.exe.config
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\FolhadePagamento_AtividadeFinal\bin\Debug\FolhadePagamento_AtividadeFinal.exe
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\FolhadePagamento_AtividadeFinal\bin\Debug\FolhadePagamento_AtividadeFinal.pdb
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\FolhadePagamento_AtividadeFinal\obj\Debug\FolhadePagamento_AtividadeFinal.csprojAssemblyReference.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\FolhadePagamento_AtividadeFinal\obj\Debug\FolhadePagamento_AtividadeFinal.csproj.CoreCompileInputs.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\FolhadePagamento_AtividadeFinal\obj\Debug\FolhadePagamento_AtividadeFinal.exe
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\FolhadePagamento_AtividadeFinal\obj\Debug\FolhadePagamento_AtividadeFinal.pdb
