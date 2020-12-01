@@ -1,0 +1,6 @@
+C:\Users\Luís Guilherme\Desktop\Nova pasta (10)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Luís Guilherme\Desktop\Nova pasta (10)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Luís Guilherme\Desktop\Nova pasta (10)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Luís Guilherme\Desktop\Nova pasta (10)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Luís Guilherme\Desktop\Nova pasta (10)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Luís Guilherme\Desktop\Nova pasta (10)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
