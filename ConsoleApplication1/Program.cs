@@ -9,7 +9,7 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            //Dados do Alguel do Automóvel
+            //Dados do Aluguel do Automóvel
             Console.WriteLine("Enter rental data"); 
             Console.Write("Car model: ");
             string model = Console.ReadLine();
